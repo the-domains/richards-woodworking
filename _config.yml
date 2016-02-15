@@ -1,14 +1,28 @@
+name: Richards woodworking
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.5692951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7753141
-  lightness: 0.9466496
-  brandStrength: 0.2838325
-  rhythmicContrast: 0.5100361
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-name: Richards woodworking
+  brandStrength: 0.2838325
+  lightness: 0.9466496
+  saturation: 0.7753141
+  rhythmicContrast: 0.5100361
+purpose: []
